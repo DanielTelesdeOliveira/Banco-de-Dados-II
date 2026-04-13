@@ -1,4 +1,6 @@
--- MySQL Workbench Forward Engineering
+-- Daniel Teles de Oliveira RA:00334427
+-- Joao Victor Torres Soares RA:00330701
+
 -- Script gerado automaticamente pelo MySQL Workbench para criação do banco
 
 -- Desativa temporariamente verificações para evitar erros durante a criação das tabelas

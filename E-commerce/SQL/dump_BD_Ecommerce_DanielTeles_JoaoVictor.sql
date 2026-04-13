@@ -1,3 +1,5 @@
+-- Daniel Teles de Oliveira RA:00334427
+-- Joao Victor Torres Soares RA:00330701
 -- -----------------------------------------------------
 -- Inserção de Tipos de Usuário
 -- -----------------------------------------------------
