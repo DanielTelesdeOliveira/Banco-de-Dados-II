@@ -13,10 +13,10 @@ O projeto aborda quatro grandes áreas:
 
 ## Integrantes
 
-* Daniel Teles de Oliveira
-* João Victor Torres Soares
-* Pedro Gabriel Takenobu Serafim
-* Rubens Rodrigues Maranesi
+* [Daniel Teles de Oliveira](https://github.com/DanielTelesdeOliveira)
+* [João Victor Torres Soares](https://github.com/JTSoares)
+* [Pedro Gabriel Takenobu Serafim](https://github.com/pedrogts)
+* [Rubens Rodrigues Maranesi](https://github.com/Rubziguin)
 
 ---
 
