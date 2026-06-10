@@ -1,134 +1,118 @@
-# 🛒 E-commerce Database Project
+# 🛒 Projeto de Banco de Dados para E-commerce
 
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Database](https://img.shields.io/badge/database-MySQL-blue)
-![License](https://img.shields.io/badge/license-academic-lightgrey)
-
----
-
-## 📌 Overview
-This project presents a complete **E-commerce database modeling**, covering all stages from conceptual design to physical implementation.
-
-It demonstrates how to structure data for a real-world e-commerce system, including customers, products, orders, and payments.
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Banco de Dados](https://img.shields.io/badge/database-MySQL-blue)
+![Licença](https://img.shields.io/badge/license-acadêmico-lightgrey)
 
 ---
 
-## 📂 Project Structure
+## 📌 Visão Geral
 
-```
-E-commerce/
-│
-├── Documento/
-│   └── Sumario Executivo - Ecommerce.pdf
-│
-├── Imagem/
-│   ├── dfd_0_ecommerce.png
-│   ├── modelo_conceitual.jpg
-│   ├── modelo_logico.jpg
-│   └── modelo_fisico_ecommerce.png
-│
-├── MER/
-│   ├── MER.pdf
-│   └── modelo_fisico_ecommerce.mwb
-│
-├── SQL/
-│   ├── criacao_BD_Ecommerce.sql
-│   └── dump_BD_Ecommerce.sql
-```
+Este projeto apresenta uma modelagem completa de banco de dados para um sistema de **E-commerce**, abrangendo todas as etapas, desde o projeto conceitual até a implementação física.
+
+O objetivo é demonstrar como estruturar os dados de um sistema real de comércio eletrônico, incluindo clientes, produtos, pedidos e pagamentos.
 
 ---
 
-## 🧠 Project Stages
+## 👨‍💻 Autores
 
-### 📊 Conceptual Model
-High-level representation of entities and relationships.
+* [Daniel Teles de Oliveira](https://github.com/DanielTelesdeOliveira)
+* [João Victor Torres Soares](https://github.com/JTSoares)
 
-- Customers
-- Products
-- Orders
-- Payments
+---
+
+## 🧠 Etapas do Projeto
+
+### 📊 Modelo Conceitual
+
+Representação de alto nível das entidades e seus relacionamentos.
+
+Principais entidades:
+
+* Clientes
+* Produtos
+* Pedidos
+* Pagamentos
 
 📍 `Imagem/modelo_conceitual.jpg`
 
 ---
 
-### 🔗 Logical Model
-Defines relational structure with keys and normalization.
+### 🔗 Modelo Lógico
+
+Define a estrutura relacional do banco de dados, incluindo chaves e normalização.
 
 📍 `Imagem/modelo_logico.jpg`
 
 ---
 
-### 🗄️ Physical Model
-Database implementation details such as data types and constraints.
+### 🗄️ Modelo Físico
+
+Detalha a implementação do banco de dados, incluindo tipos de dados, restrições e relacionamentos.
 
 📍 `Imagem/modelo_fisico_ecommerce.png`
 
 ---
 
-### 🔄 Data Flow Diagram (DFD)
-Represents how data flows through the system.
+### 🔄 Diagrama de Fluxo de Dados (DFD)
+
+Representa o fluxo de informações dentro do sistema.
 
 📍 `Imagem/dfd_0_ecommerce.png`
 
 ---
 
-### 📑 Entity-Relationship Model (MER)
-Formal representation of entities and relationships.
+### 📑 Modelo Entidade-Relacionamento (MER)
+
+Representação formal das entidades e seus relacionamentos.
 
 📍 `MER/MER.pdf`
 
 ---
 
-## 🧾 SQL Scripts
+## 🧾 Scripts SQL
 
-### 🔨 Database Creation
+### 🔨 Criação do Banco de Dados
+
 ```sql
 source criacao_BD_Ecommerce.sql;
 ```
 
-### 💾 Database Population
+### 💾 Popular o Banco de Dados
+
 ```sql
 source dump_BD_Ecommerce.sql;
 ```
 
 ---
 
-## 🚀 How to Run
+## 🚀 Como Executar
 
-1. Install MySQL or compatible SGBD
-2. Create a database
-3. Run creation script
-4. (Optional) Run dump script
+1. Instale o MySQL ou outro SGBD compatível;
+2. Crie um banco de dados;
+3. Execute o script de criação;
+4. (Opcional) Execute o script de carga de dados.
 
 ---
 
-## 📘 Documentation
-Detailed explanation available in:
+## 📘 Documentação
+
+Uma explicação detalhada do projeto está disponível em:
 
 📍 `Documento/Sumario Executivo - Ecommerce.pdf`
 
 ---
 
-## 👨‍💻 Authors
+## 📌 Observações
 
-- Daniel Teles de Oliveira
-- João Victor Torres Soares
-
----
-
-## 📌 Notes
-
-- Focused on **data modeling**
-- Can be extended into a full-stack application
-- This project is for academic purposes.
+* Projeto focado em modelagem de dados;
+* Pode ser expandido para uma aplicação full stack completa;
+* Desenvolvido para fins acadêmicos.
 
 ---
 
-## ⭐ Contributing
+## ⭐ Contribuições
 
-Feel free to fork and improve this project!
+Sinta-se à vontade para fazer um fork deste projeto e propor melhorias.
 
 ---
-
-
